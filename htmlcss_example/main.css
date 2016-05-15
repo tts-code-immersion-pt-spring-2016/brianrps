@@ -1,0 +1,72 @@
+@import
+url(https://fonts.googleapis.com/css?family=Noto+Sans%7CComfortaa:400,300,700);
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #DDD;
+  color: #222;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 300;
+}
+
+#login-box{
+  position: relative;
+  margin: 5% auto;
+  background-color: #FFF;
+  width: 600px;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+.left,
+.right{
+  padding: 40px;
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+}
+
+.left{
+    left: 0;
+}
+
+.right{
+  right: 0;
+  background: url('https://goo.gl/YbktSj');
+  background-size: cover;
+  background-position: center;
+  border-radius: 0 2px 2px 0;
+}
+
+.sign-up input{
+  border: none;
+  border-bottom: 1px solid #AAA;
+  display: block;
+  margin-bottom: 20px;
+  padding: 4px;
+  width: 220px;
+  height: 32px;
+  font-weight: 400;
+}
+
+h1 {
+  margin: 0 0 20px 0;
+  font-weight: 300;
+  font-size: 2em;
+}
+
+.sign-up-button {
+  margin: 5px auto;
+  width: 220px;
+  height: 32px;
+  border: none;
+  border-radius: 2px;
+  background: #16a085;
+  color: #FFF;
+  font-weight: 400;
+  text-transform: uppercase;
+}

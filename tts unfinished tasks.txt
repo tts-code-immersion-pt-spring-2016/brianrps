@@ -1,0 +1,11 @@
+tts unfinished tasks
+compiled by Brian Nivens @briannivens briannivens.wordpress.com facebook/briannivens briannivens@gmail.com
+
+1)  RubyMonk books
+2)  RubyMonk challenges
+3)  Freecodecamp activities
+4)  Codeschool front end activities
+    Codeschool jquery
+    Codeschool sql
+6)  CSS diner
+7)  learn_ruby testing activities
